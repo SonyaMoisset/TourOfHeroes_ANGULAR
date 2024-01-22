@@ -17,7 +17,7 @@
     "@angular/compiler": "17.0.8",
     "@angular/core": "15.2.10",
     "@angular/forms": "16.2.8",
-    "@angular/http": "7.2.4",
+    "@angular/http": "7.2.16",
     "@angular/platform-browser": "7.2.4",
     "@angular/platform-browser-dynamic": "17.0.4",
     "@angular/router": "16.2.7",
