@@ -20,7 +20,7 @@
     "@angular/http": "7.2.4",
     "@angular/platform-browser": "17.2.1",
     "@angular/platform-browser-dynamic": "18.0.6",
-    "@angular/router": "16.2.7",
+    "@angular/router": "18.1.2",
     "core-js": "3.37.1",
     "rxjs": "7.8.1",
     "zone.js": "0.14.7"
