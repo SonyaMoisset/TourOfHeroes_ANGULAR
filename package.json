@@ -18,7 +18,7 @@
     "@angular/core": "15.2.10",
     "@angular/forms": "17.1.1",
     "@angular/http": "7.2.4",
-    "@angular/platform-browser": "17.2.1",
+    "@angular/platform-browser": "18.2.3",
     "@angular/platform-browser-dynamic": "18.2.0",
     "@angular/router": "18.1.2",
     "core-js": "3.37.1",
