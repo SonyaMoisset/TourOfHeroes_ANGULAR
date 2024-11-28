@@ -29,7 +29,7 @@
     "@angular/cli": "18.2.2",
     "@angular/compiler-cli": "18.2.0",
     "@angular/language-service": "18.2.0",
-    "@types/jasmine": "5.1.2",
+    "@types/jasmine": "5.1.5",
     "@types/jasminewd2": "2.0.13",
     "@types/node": "22.9.0",
     "codelyzer": "6.0.2",
